@@ -1,5 +1,5 @@
 ![header](src/header.png)
-> Personal Project voting regressor
+> Personal Project voting classifier and sentiment analysis in tweets
 
 ## Dataset
 * `Date`: Día al que hacen referencia los datos presentados.
@@ -23,3 +23,6 @@
 Para ello deberas entrenar tu modelo con los datos de training (si también se usan los tweets se sumaran 100 puntos) e introducir como input de tu modelo el dataset test_x para realizar las predicciones.
 
 2. Crea un breve documento (máx. 2 páginas) o presentación (máx. 4 slides) explicando la solución que has empleado y porque la has empleado.
+
+---
+Created by Cesar Supo
