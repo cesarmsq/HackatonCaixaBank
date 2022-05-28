@@ -1,4 +1,4 @@
-![header](src\header.png)
+![header](src/header.png)
 > Personal Project voting regressor
 
 ## Dataset
@@ -14,7 +14,7 @@
     * `1`: Indica que el precio de cierre tres días adelante será más alto que el precio de cierre actual.
     * `0`: Indica que el precio de cierre tres días adelante será igual o menor al precio actual.
 
-![image](src\example_targets_green.png) 
+![image](src/example_targets_green.png) 
 
 
 ## Reto
