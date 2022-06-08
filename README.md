@@ -1,6 +1,10 @@
 ![header](src/header.png)
 > Personal Project voting classifier and sentiment analysis in tweets
+---
+## Resultado
+![report](src/report.png)
 
+---
 ## Dataset
 * `Date`: Día al que hacen referencia los datos presentados.
 * `Open`: Precio de apertura de ese día.
